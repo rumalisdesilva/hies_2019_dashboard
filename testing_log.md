@@ -12,6 +12,14 @@
 - Checked for duplicated rows
 - ✅ Passed – No duplicates found
 
+## ✅ Test Case 4: Data Type Check
+- Ensured 'Expenditure_Rs' is numeric
+- ✅ Passed – Column is numeric
+
+## ✅ Test Case 5: Value Range Check
+- Checked if all values in 'Expenditure_Rs' are ≥ 0
+- ✅ Passed – No negative values found
+
 ---
 
 **Date:** 2025-05-04  

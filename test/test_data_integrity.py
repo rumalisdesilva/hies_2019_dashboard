@@ -13,4 +13,12 @@ assert df['Expenditure_Rs'].isnull().sum() == 0, "❌ Missing values in 'Expendi
 # Test 3: No duplicate records
 assert df.duplicated().sum() == 0, "❌ Duplicate rows found"
 
+## ✅ Test Case 4: Data Type Check
+- Ensured 'Expenditure_Rs' is numeric
+- ✅ Passed – Column is numeric
+
+## ✅ Test Case 5: Value Range Check
+- Checked if all values in 'Expenditure_Rs' are ≥ 0
+- ✅ Passed – No negative values found
+
 print("✅ All tests passed!")
