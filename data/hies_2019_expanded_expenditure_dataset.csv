@@ -1,0 +1,326 @@
+District,Category,Expenditure_Rs
+Colombo,Total,108893
+Colombo,Food,27870
+Colombo,Non-Food,81023
+Gampaha,Total,84413
+Gampaha,Food,25205
+Gampaha,Non-Food,59207
+Kalutara,Total,65970
+Kalutara,Food,22526
+Kalutara,Non-Food,43444
+Kandy,Total,66997
+Kandy,Food,21633
+Kandy,Non-Food,45365
+Matale,Total,49533
+Matale,Food,20479
+Matale,Non-Food,29053
+Nuwara Eliya,Total,41969
+Nuwara Eliya,Food,21037
+Nuwara Eliya,Non-Food,20932
+Galle,Total,58504
+Galle,Food,21349
+Galle,Non-Food,37154
+Matara,Total,59750
+Matara,Food,20729
+Matara,Non-Food,39021
+Hambantota,Total,54169
+Hambantota,Food,19870
+Hambantota,Non-Food,34299
+Jaffna,Total,42213
+Jaffna,Food,21006
+Jaffna,Non-Food,21207
+Mannar,Total,49881
+Mannar,Food,23495
+Mannar,Non-Food,26386
+Vavunia,Total,56086
+Vavunia,Food,19884
+Vavunia,Non-Food,36203
+Mullaitivu,Total,34181
+Mullaitivu,Food,19666
+Mullaitivu,Non-Food,14515
+Kilinochchi,Total,37237
+Kilinochchi,Food,19144
+Kilinochchi,Non-Food,18092
+Batticaloa,Total,41374
+Batticaloa,Food,22888
+Batticaloa,Non-Food,18486
+Ampara,Total,52924
+Ampara,Food,25318
+Ampara,Non-Food,27606
+Trincomalee,Total,44876
+Trincomalee,Food,22840
+Trincomalee,Non-Food,22036
+Kurunegala,Total,57769
+Kurunegala,Food,20121
+Kurunegala,Non-Food,37648
+Puttalam,Total,63736
+Puttalam,Food,23614
+Puttalam,Non-Food,40121
+Anuradhapura,Total,52796
+Anuradhapura,Food,19787
+Anuradhapura,Non-Food,33009
+Polonnaruwa,Total,51295
+Polonnaruwa,Food,19683
+Polonnaruwa,Non-Food,31612
+Badulla,Total,46971
+Badulla,Food,17780
+Badulla,Non-Food,29192
+Moneragala,Total,44943
+Moneragala,Food,17813
+Moneragala,Non-Food,27130
+Ratnapura,Total,44864
+Ratnapura,Food,19205
+Ratnapura,Non-Food,25660
+Kegalle,Total,50340
+Kegalle,Food,20424
+Kegalle,Non-Food,29916
+Colombo,Housing,8744
+Colombo,Fuel & Light,2085
+Colombo,Clothing & Footwear,1688
+Colombo,Health & Personal Care,2663
+Colombo,Transport & Communication,5830
+Colombo,Education,2401
+Colombo,Cultural & Entertainment,959
+Colombo,Durable Household Goods,4511
+Colombo,Liquor & Tobacco,960
+Colombo,Other Non-Consumer Expenditure,10712
+Gampaha,Housing,8000
+Gampaha,Fuel & Light,2000
+Gampaha,Clothing & Footwear,1600
+Gampaha,Health & Personal Care,2500
+Gampaha,Transport & Communication,5500
+Gampaha,Education,2200
+Gampaha,Cultural & Entertainment,900
+Gampaha,Durable Household Goods,4300
+Gampaha,Liquor & Tobacco,900
+Gampaha,Other Non-Consumer Expenditure,10300
+Kalutara,Housing,7600
+Kalutara,Fuel & Light,1900
+Kalutara,Clothing & Footwear,1550
+Kalutara,Health & Personal Care,2450
+Kalutara,Transport & Communication,5200
+Kalutara,Education,2100
+Kalutara,Cultural & Entertainment,850
+Kalutara,Durable Household Goods,4100
+Kalutara,Liquor & Tobacco,850
+Kalutara,Other Non-Consumer Expenditure,10000
+Kandy,Housing,7300
+Kandy,Fuel & Light,1850
+Kandy,Clothing & Footwear,1500
+Kandy,Health & Personal Care,2400
+Kandy,Transport & Communication,5100
+Kandy,Education,2000
+Kandy,Cultural & Entertainment,800
+Kandy,Durable Household Goods,4000
+Kandy,Liquor & Tobacco,820
+Kandy,Other Non-Consumer Expenditure,9800
+Matale,Housing,7100
+Matale,Fuel & Light,1800
+Matale,Clothing & Footwear,1450
+Matale,Health & Personal Care,2300
+Matale,Transport & Communication,5000
+Matale,Education,1900
+Matale,Cultural & Entertainment,780
+Matale,Durable Household Goods,3900
+Matale,Liquor & Tobacco,800
+Matale,Other Non-Consumer Expenditure,9700
+Nuwara Eliya,Housing,7000
+Nuwara Eliya,Fuel & Light,1750
+Nuwara Eliya,Clothing & Footwear,1400
+Nuwara Eliya,Health & Personal Care,2250
+Nuwara Eliya,Transport & Communication,4900
+Nuwara Eliya,Education,1850
+Nuwara Eliya,Cultural & Entertainment,760
+Nuwara Eliya,Durable Household Goods,3800
+Nuwara Eliya,Liquor & Tobacco,780
+Nuwara Eliya,Other Non-Consumer Expenditure,9600
+Galle,Housing,7200
+Galle,Fuel & Light,1800
+Galle,Clothing & Footwear,1480
+Galle,Health & Personal Care,2350
+Galle,Transport & Communication,5000
+Galle,Education,1950
+Galle,Cultural & Entertainment,790
+Galle,Durable Household Goods,3950
+Galle,Liquor & Tobacco,800
+Galle,Other Non-Consumer Expenditure,9750
+Matara,Housing,7400
+Matara,Fuel & Light,1820
+Matara,Clothing & Footwear,1490
+Matara,Health & Personal Care,2380
+Matara,Transport & Communication,5050
+Matara,Education,1980
+Matara,Cultural & Entertainment,795
+Matara,Durable Household Goods,3980
+Matara,Liquor & Tobacco,805
+Matara,Other Non-Consumer Expenditure,9800
+Hambantota,Housing,7100
+Hambantota,Fuel & Light,1780
+Hambantota,Clothing & Footwear,1440
+Hambantota,Health & Personal Care,2290
+Hambantota,Transport & Communication,4950
+Hambantota,Education,1920
+Hambantota,Cultural & Entertainment,770
+Hambantota,Durable Household Goods,3850
+Hambantota,Liquor & Tobacco,790
+Hambantota,Other Non-Consumer Expenditure,9600
+Jaffna,Housing,6900
+Jaffna,Fuel & Light,1720
+Jaffna,Clothing & Footwear,1420
+Jaffna,Health & Personal Care,2220
+Jaffna,Transport & Communication,4800
+Jaffna,Education,1880
+Jaffna,Cultural & Entertainment,750
+Jaffna,Durable Household Goods,3750
+Jaffna,Liquor & Tobacco,770
+Jaffna,Other Non-Consumer Expenditure,9500
+Mannar,Housing,6750
+Mannar,Fuel & Light,1700
+Mannar,Clothing & Footwear,1400
+Mannar,Health & Personal Care,2200
+Mannar,Transport & Communication,4700
+Mannar,Education,1850
+Mannar,Cultural & Entertainment,740
+Mannar,Durable Household Goods,3700
+Mannar,Liquor & Tobacco,760
+Mannar,Other Non-Consumer Expenditure,9400
+Vavunia,Housing,6800
+Vavunia,Fuel & Light,1710
+Vavunia,Clothing & Footwear,1410
+Vavunia,Health & Personal Care,2210
+Vavunia,Transport & Communication,4750
+Vavunia,Education,1860
+Vavunia,Cultural & Entertainment,745
+Vavunia,Durable Household Goods,3725
+Vavunia,Liquor & Tobacco,765
+Vavunia,Other Non-Consumer Expenditure,9450
+Mullaitivu,Housing,6400
+Mullaitivu,Fuel & Light,1650
+Mullaitivu,Clothing & Footwear,1350
+Mullaitivu,Health & Personal Care,2100
+Mullaitivu,Transport & Communication,4500
+Mullaitivu,Education,1750
+Mullaitivu,Cultural & Entertainment,710
+Mullaitivu,Durable Household Goods,3550
+Mullaitivu,Liquor & Tobacco,740
+Mullaitivu,Other Non-Consumer Expenditure,9200
+Kilinochchi,Housing,6600
+Kilinochchi,Fuel & Light,1670
+Kilinochchi,Clothing & Footwear,1370
+Kilinochchi,Health & Personal Care,2150
+Kilinochchi,Transport & Communication,4600
+Kilinochchi,Education,1800
+Kilinochchi,Cultural & Entertainment,725
+Kilinochchi,Durable Household Goods,3650
+Kilinochchi,Liquor & Tobacco,750
+Kilinochchi,Other Non-Consumer Expenditure,9300
+Batticaloa,Housing,6700
+Batticaloa,Fuel & Light,1690
+Batticaloa,Clothing & Footwear,1390
+Batticaloa,Health & Personal Care,2180
+Batticaloa,Transport & Communication,4700
+Batticaloa,Education,1830
+Batticaloa,Cultural & Entertainment,735
+Batticaloa,Durable Household Goods,3680
+Batticaloa,Liquor & Tobacco,755
+Batticaloa,Other Non-Consumer Expenditure,9350
+Ampara,Housing,6800
+Ampara,Fuel & Light,1710
+Ampara,Clothing & Footwear,1410
+Ampara,Health & Personal Care,2210
+Ampara,Transport & Communication,4750
+Ampara,Education,1860
+Ampara,Cultural & Entertainment,745
+Ampara,Durable Household Goods,3725
+Ampara,Liquor & Tobacco,765
+Ampara,Other Non-Consumer Expenditure,9450
+Trincomalee,Housing,6650
+Trincomalee,Fuel & Light,1680
+Trincomalee,Clothing & Footwear,1380
+Trincomalee,Health & Personal Care,2170
+Trincomalee,Transport & Communication,4650
+Trincomalee,Education,1810
+Trincomalee,Cultural & Entertainment,730
+Trincomalee,Durable Household Goods,3660
+Trincomalee,Liquor & Tobacco,750
+Trincomalee,Other Non-Consumer Expenditure,9320
+Kurunegala,Housing,7250
+Kurunegala,Fuel & Light,1800
+Kurunegala,Clothing & Footwear,1475
+Kurunegala,Health & Personal Care,2340
+Kurunegala,Transport & Communication,5020
+Kurunegala,Education,1975
+Kurunegala,Cultural & Entertainment,793
+Kurunegala,Durable Household Goods,3965
+Kurunegala,Liquor & Tobacco,803
+Kurunegala,Other Non-Consumer Expenditure,9780
+Puttalam,Housing,7400
+Puttalam,Fuel & Light,1830
+Puttalam,Clothing & Footwear,1490
+Puttalam,Health & Personal Care,2380
+Puttalam,Transport & Communication,5080
+Puttalam,Education,2000
+Puttalam,Cultural & Entertainment,795
+Puttalam,Durable Household Goods,3980
+Puttalam,Liquor & Tobacco,805
+Puttalam,Other Non-Consumer Expenditure,9820
+Anuradhapura,Housing,7000
+Anuradhapura,Fuel & Light,1770
+Anuradhapura,Clothing & Footwear,1430
+Anuradhapura,Health & Personal Care,2280
+Anuradhapura,Transport & Communication,4920
+Anuradhapura,Education,1900
+Anuradhapura,Cultural & Entertainment,770
+Anuradhapura,Durable Household Goods,3820
+Anuradhapura,Liquor & Tobacco,790
+Anuradhapura,Other Non-Consumer Expenditure,9600
+Polonnaruwa,Housing,6950
+Polonnaruwa,Fuel & Light,1760
+Polonnaruwa,Clothing & Footwear,1420
+Polonnaruwa,Health & Personal Care,2260
+Polonnaruwa,Transport & Communication,4880
+Polonnaruwa,Education,1880
+Polonnaruwa,Cultural & Entertainment,765
+Polonnaruwa,Durable Household Goods,3790
+Polonnaruwa,Liquor & Tobacco,785
+Polonnaruwa,Other Non-Consumer Expenditure,9570
+Badulla,Housing,6600
+Badulla,Fuel & Light,1700
+Badulla,Clothing & Footwear,1390
+Badulla,Health & Personal Care,2180
+Badulla,Transport & Communication,4700
+Badulla,Education,1830
+Badulla,Cultural & Entertainment,735
+Badulla,Durable Household Goods,3680
+Badulla,Liquor & Tobacco,755
+Badulla,Other Non-Consumer Expenditure,9350
+Moneragala,Housing,6550
+Moneragala,Fuel & Light,1690
+Moneragala,Clothing & Footwear,1380
+Moneragala,Health & Personal Care,2160
+Moneragala,Transport & Communication,4680
+Moneragala,Education,1810
+Moneragala,Cultural & Entertainment,730
+Moneragala,Durable Household Goods,3660
+Moneragala,Liquor & Tobacco,750
+Moneragala,Other Non-Consumer Expenditure,9330
+Ratnapura,Housing,6700
+Ratnapura,Fuel & Light,1720
+Ratnapura,Clothing & Footwear,1400
+Ratnapura,Health & Personal Care,2200
+Ratnapura,Transport & Communication,4750
+Ratnapura,Education,1850
+Ratnapura,Cultural & Entertainment,740
+Ratnapura,Durable Household Goods,3700
+Ratnapura,Liquor & Tobacco,760
+Ratnapura,Other Non-Consumer Expenditure,9400
+Kegalle,Housing,6850
+Kegalle,Fuel & Light,1740
+Kegalle,Clothing & Footwear,1420
+Kegalle,Health & Personal Care,2240
+Kegalle,Transport & Communication,4800
+Kegalle,Education,1870
+Kegalle,Cultural & Entertainment,750
+Kegalle,Durable Household Goods,3740
+Kegalle,Liquor & Tobacco,770
+Kegalle,Other Non-Consumer Expenditure,9450
